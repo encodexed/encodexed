@@ -7,7 +7,5 @@ Don't mind me, I'm just trying out some plugins for this portfolio readme. Let's
 I recommend visiting some of my pinned repositories or visiting my [portfolio website[(https://alakaslam.io).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encodexed)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=encodexed)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
