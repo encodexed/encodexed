@@ -8,8 +8,9 @@
     <div><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/></div>
     <h3>Frameworks</h3>
     <p>Building upon the foundation of my core technologies, I've worked with many frameworks, libraries and supersets. I have created many React apps, and TailwindCSS is my favourite way to style projects. NextJS, TypeScript, NestJS, Java Spring and SASS are all much more recent additions to my skills.</p>
-    <div><img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactJS" width="40" height="40"/> <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="typescript" width="40" height="40"/> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="springboot" width="40" height="40"/> <img src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="nestJS" width="40" height="40"/> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwindCSS" width="40" height="40"/> <img src="https://www.svgrepo.com/show/349502/sass.svg" alt="sass" width="40" height="40"/></div>
+    <div><img src="https://github.com/encodexed/encodexed/assets/107448691/988cb0ff-663c-493c-a7dc-8c5a06256b64" alt="nextJS" width="40" height="40"/> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactJS" width="40" height="40"/> <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="typescript" width="40" height="40"/> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="springboot" width="40" height="40"/> <img src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="nestJS" width="40" height="40"/> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwindCSS" width="40" height="40"/> <img src="https://www.svgrepo.com/show/349502/sass.svg" alt="sass" width="40" height="40"/></div>
   </div>
+  
   <h3>Testing</h3>
     <p>Unit testing tools I've used include Jest and the React Testing Library.</p>
     <div><img src="https://www.svgrepo.com/show/373701/jest-snapshot.svg" alt="jest" width="40" height="40"/> <img src="https://www.svgrepo.com/show/397611/octopus.svg" alt="reactTestingLibrary" width="40" height="40"/></div>
@@ -17,7 +18,6 @@
     <p>I have been using git confidently for software version control since 2023.</p>
     <div><img src="https://www.svgrepo.com/show/452210/git.svg" alt="jest" width="40" height="40"/></div>
   </div>
-
 
 <div>
   <div align="left">
