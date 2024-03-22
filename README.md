@@ -1,4 +1,10 @@
+<img src="https://github.com/encodexed/encodexed/assets/107448691/2f9f9d6d-1f0d-4160-8121-24a4292efb0d" alt="splash image" />
 
+<h1>Hey there, I'm Robbie</h1>
+
+<b>Personal website</b>: [alakaslam.io](https://alakaslam.io)
+
+<p>I've been developing websites and other software since 2022.</p>
 
   <div align="left">
     <h2>Languages and Proficiencies</h2>
