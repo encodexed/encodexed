@@ -1,10 +1,24 @@
 <img src="https://github.com/encodexed/encodexed/assets/107448691/2f9f9d6d-1f0d-4160-8121-24a4292efb0d" alt="splash image" />
 
-<h1>Hey there, I'm Robbie</h1>
+<h4 align="center">Hi, I'm Robbie, a graduate software developer looking for their first job in the tech industry.</h4>
 
-<b>Personal website</b>: [alakaslam.io](https://alakaslam.io)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=encodexed&label=Profile%20views&color=0e75b6&style=flat" alt="encodexed" /> </p>
 
-<p>I've been developing websites and other software since 2022.</p>
+- 🔭 I’m currently working on [astro-recipes](https://github.com/encodexed/astro-recipes), an exploratory project using Astro as a full-stack light-weight framework for SSG
+
+- 🌱 I’m currently learning **Astro** and **Python**
+
+- 👨‍💻 All of my projects are available here on github, and my portfolio website can be found [here](https://alakaslam.io)
+
+- 💬 I'm spending my days **doing casual work (to pay the bills) whenever I'm not studying or building projects**
+
+- 🎮 I love video games - I'm currently enjoying **Helldivers 2**, **Overwatch 2** and **Rocket League**
+
+- 🦜 I have three beautiful birds - two budgies (Beemo and Midori) and a parrotlet (Pippin)
+
+- 🎾 I also like to play tennis and piano in my free time
+
+- 📫 You can reach me right [here](https://www.alakaslam.io/contact)
 
   <div align="left">
     <h2>Languages and Proficiencies</h2>
