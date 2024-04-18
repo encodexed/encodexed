@@ -1,4 +1,4 @@
-<img src="https://github.com/encodexed/encodexed/assets/107448691/2f9f9d6d-1f0d-4160-8121-24a4292efb0d" alt="splash image" />
+<img src="https://github.com/encodexed/encodexed/assets/107448691/e44c5740-e7ab-48d3-b0a8-9e799512d489" alt="Profile image" />
 
 <h4 align="center">Hi, I'm Robbie, a graduate software developer looking for their first job in the tech industry.</h4>
 
