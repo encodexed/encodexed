@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encodexed&label=Profile%20views&color=0e75b6&style=flat" alt="encodexed" /> </p>
 
-- 🔭 I’m currently working on [astro-recipes](https://github.com/encodexed/astro-recipes), an exploratory project using Astro as a full-stack light-weight framework for SSG
+- 🔭 I’m currently working on [astro-recipes](https://github.com/encodexed/astro-recipes), an exploratory project using Astro as a light-weight full-stack framework
 
-- 🌱 I’m currently learning **Astro** and **Python**
+- 🌱 I’m currently learning **Astro**
 
 - 👨‍💻 All of my projects are available here on github, and my portfolio website can be found [here](https://alakaslam.io)
 
