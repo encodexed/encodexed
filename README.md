@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encodexed&label=Profile%20views&color=0e75b6&style=flat" alt="encodexed" /> </p>
 
-- 🔭 I’m currently working on [astro-recipes](https://github.com/encodexed/astro-recipes), an exploratory project using Astro as a light-weight full-stack framework
+- 🔭 I’m currently working hard on creating bespoke user experiences and automating legal documentation at my job.
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Visual Basic**
 
-- 👨‍💻 All of my projects are available here on github, and my portfolio website can be found [here](https://alakaslam.io)
+- 👨‍💻 All of my projects are available here on github, and my portfolio website can be found (though it needs some updating 😭) [here](https://alakaslam.io)
 
-- 💬 I'm spending my days **doing casual work (to pay the bills) whenever I'm not studying or building projects**
+- 💬 I'm spending my days **fighting Microsoft Word whenever I'm not studying or building projects**
 
-- 🎮 I love video games - I'm currently enjoying **Helldivers 2**, **Overwatch 2** and **Rocket League**
+- 🎮 I love video games - I'm currently enjoying **Helldivers 2**, **Elder Scrolls Online** and **Rocket League**
 
 - 🦜 I have three beautiful birds - two budgies (Beemo and Midori) and a parrotlet (Pippin)
 
