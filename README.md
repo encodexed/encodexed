@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encodexed&label=Profile%20views&color=0e75b6&style=flat" alt="encodexed" /> </p>
 
-- 🔭 I’m currently working hard at LEAP Dev writing TypeScript and Svelte code, while figuring out the best way to get my family of 20 people to be able to meet up at the same time and place without too much headache
+- 🔭 I’m currently working hard at LEAP Dev writing TypeScript and Svelte code
 
 - 🌱 I’m currently learning **C#** for use with .NET and Unity
 
 - 👨‍💻 All of my projects are available here on github, and my portfolio website can be found (though it needs a lot of updating 😭) [here](https://alakaslam.io)
 
-- 💬 I'm spending my days **fighting Microsoft Word whenever I'm not studying or building projects**
+- 💬 I'm spending my days figuring out the best way to get my family of 20 people to be able to meet up at the same time and place without too much headache
 
 - 🎮 I love video games - I'm currently enjoying **Helldivers 2**, **Age of Darkness: Final Stand** and **Dyson Sphere Program**
 
